@@ -1,0 +1,9 @@
+e:\visual studio 2015\Projects\TraitementParallele\Client\bin\Debug\Client.exe.config
+e:\visual studio 2015\Projects\TraitementParallele\Client\bin\Debug\Client.exe
+e:\visual studio 2015\Projects\TraitementParallele\Client\bin\Debug\Client.pdb
+e:\visual studio 2015\Projects\TraitementParallele\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+e:\visual studio 2015\Projects\TraitementParallele\Client\obj\Debug\Client.exe
+e:\visual studio 2015\Projects\TraitementParallele\Client\obj\Debug\Client.pdb
+C:\Users\Mike\Desktop\TraitementParallele\Client\bin\Debug\Client.exe.config
+C:\Users\Mike\Desktop\TraitementParallele\Client\obj\Debug\Client.exe
+C:\Users\Mike\Desktop\TraitementParallele\Client\obj\Debug\Client.pdb

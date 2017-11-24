@@ -1,0 +1,8 @@
+e:\visual studio 2015\Projects\TraitementParallele\Serveur\bin\Debug\Serveur.exe
+e:\visual studio 2015\Projects\TraitementParallele\Serveur\bin\Debug\Serveur.pdb
+e:\visual studio 2015\Projects\TraitementParallele\Serveur\bin\Debug\Client.exe
+e:\visual studio 2015\Projects\TraitementParallele\Serveur\bin\Debug\Client.pdb
+e:\visual studio 2015\Projects\TraitementParallele\Serveur\obj\Debug\Serveur.csprojResolveAssemblyReference.cache
+e:\visual studio 2015\Projects\TraitementParallele\Serveur\obj\Debug\Serveur.exe
+e:\visual studio 2015\Projects\TraitementParallele\Serveur\obj\Debug\Serveur.pdb
+e:\visual studio 2015\Projects\TraitementParallele\Serveur\bin\Debug\Serveur.exe.config
