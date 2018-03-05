@@ -1,16 +1,16 @@
-﻿using System;
+using System;
 using System.Threading;
 
 namespace Client
 {
 	/// <summary>
-	/// Les différents type de traitement qui peuvent être demandé au serveur.
+	/// Les différents types de traitement qui peuvent être demandés au serveur.
 	/// </summary>
 	public enum TypeTraitement { T1, T2, T3, T4 }
 
 	/// <summary>
 	/// Classe de représentation d'une demande de traitement.
-	/// Celle ci est munie d'un type de traitement, d'une priorité d'execution et d'une durée pour simuler le traitement
+	/// Celle-ci est munie d'un type de traitement, d'une priorité d'exécution et d'une durée pour simuler le traitement
 	/// Son numéro permet de l'identifier sur le réseau
 	/// </summary>
 	[Serializable]
