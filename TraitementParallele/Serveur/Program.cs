@@ -1,4 +1,4 @@
-﻿using System.Net.Sockets;
+using System.Net.Sockets;
 using System.Net;
 using System;
 using System.IO;
@@ -14,10 +14,10 @@ namespace Server
 	class Program
 	{
 		// Les ressources critiques
-		// Nombre de thread en cours de traitement
+		// Nombre de threads en cours de traitement
 		static int nbThread = 0;
 
-		// Nombre de traitement accomplies par priorité
+		// Nombre de traitements accomplis par priorité
 		// Les priorités sont dans l'ordre de Thread.Priority : [4 2 5 1 3] (5 = la priorité la plus haute)
 		static int[] nbTacheTraitee = new int[] { 0, 0, 0, 0, 0 };
 
@@ -108,7 +108,7 @@ namespace Server
 		/// de répondre au client une fois le calcul terminé.
 		/// Il met aussi à jour les sections critiques.
 		/// </summary>
-		/// <param name="data"> Les données nécéssaire au traitement de la demande, type attendu : Server.Client </param>
+		/// <param name="data"> Les données nécéssaires au traitement de la demande, type attendu : Server.Client </param>
 		public static void ExecuteTraitement(Object data) {
 			Client cli = data as Client;
 			TcpClient tcpCli = cli.TcpCli;
